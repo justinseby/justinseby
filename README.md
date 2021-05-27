@@ -18,7 +18,7 @@ A computer Science and engineering graduate who is passionate about Machine lear
 
 - 📫 Connect with me on these platforms.
 
-<a href="https://www.linkedin.com/in/rohan-paul-b27285129/">
+<a href="https://www.linkedin.com/in/justin-seby-58a84618a/">
     <img align="left" alt="Justin Seby | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
   </a>
 
