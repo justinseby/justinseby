@@ -1,5 +1,4 @@
 
-
 ### Hi there 👋 I'm Justin Seby,
 
 A computer Science and engineering graduate who is passionate about Machine learning, AI and Data Science. Ex -software engineer.
