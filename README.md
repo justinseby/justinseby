@@ -1,13 +1,12 @@
 
 ### Hi there 👋 I'm Justin Seby,
 
-A computer Science and engineering graduate who is passionate about Machine learning, AI and Data Science. Ex -software engineer.
+A computer Science and engineering graduate who is passionate about Machine learning, AI, Big Data and Data Science. Ex -software engineer.
 
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
-	- [ ] Data Science Professional Certification from John Hopkins University.
-- :bulb: I'm interested in : **Big Data, AI, Machine Learning and Data Science**
+	- [ ] Data Science Professional Certification from John Hopkins University
 
 ### My skills include
 
