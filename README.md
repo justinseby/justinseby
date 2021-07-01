@@ -28,10 +28,9 @@ A computer Science and engineering graduate who is passionate about Machine lear
 
 
 
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinseby&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=advaithm&show_icons=true&locale=en&layout=compact&theme=radical" alt="advaithm" /></p>
-
-<h3 align="left">📫 Connect with me on these platforms.</h3>
+<h3 >📫 Connect with me on these platforms.</h3>
 
 
 <a href="https://www.linkedin.com/in/justin-seby-58a84618a/">
