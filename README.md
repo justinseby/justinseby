@@ -40,6 +40,6 @@ A computer Science and engineering graduate who is passionate about Machine lear
     <img align="left" alt="Justin Seby | Twitter" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/twitter.svg" />
   </a>
 
-   <a href="https://www.kaggle.com/Justin Seby">
+   <a href="https://www.kaggle.com/justinseby1">
     <img align="left" alt="Justin Seby | Kaggle" width="50px" height="30px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/kaggle.png" />
 </a>
