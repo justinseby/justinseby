@@ -10,7 +10,6 @@ A computer Science and engineering graduate who is passionate about Machine lear
 
 ### My skills include
 
-<h3 align="left">Languages and Tools:</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
