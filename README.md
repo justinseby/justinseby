@@ -22,7 +22,6 @@ A polyglot software engineer who is passionate about Machine learning, AI, Big D
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
 
 
