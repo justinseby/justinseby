@@ -11,7 +11,7 @@ A polyglot software engineer who is passionate about Machine learning, AI, Big D
 ### My skills include
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
