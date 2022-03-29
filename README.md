@@ -35,7 +35,7 @@ A polyglot software engineer who is passionate about Machine learning, AI, Big D
     <img align="left" alt="Justin Seby | Linkedin" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/Linkedin.svg" />
   </a>
 
-   <a href="https://twitter.com/justinkaith?lang=en">
+   <a href="https://twitter.com/_justinseby?lang=en">
     <img align="left" alt="Justin Seby | Twitter" width="24px" src="https://github.com/rohan-paul/rohan-paul/blob/master/assets/twitter.svg" />
   </a>
 
