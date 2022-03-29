@@ -6,7 +6,7 @@ A polyglot software engineer who is passionate about Machine learning, AI, Big D
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
-	- [ ] Data Science Professional Certification from John Hopkins University 
+	- [ ] Machine Learning Professional Certification from Stanford
 
 ### My skills include
 
