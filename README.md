@@ -7,6 +7,7 @@ A polyglot software engineer who is passionate about Machine learning, AI, Big D
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
 	- [ ] Machine Learning Professional Certification from Stanford
+	- [ ] Natural Language Processing in TensorFlow Certification from DeepLearning.AI
 
 ### My skills include
 
