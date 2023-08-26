@@ -27,7 +27,6 @@ A polyglot software engineer who is passionate about Machine learning, AI, Big D
 
 
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinseby&show_icons=true&theme=radical)
 
 <h3 >📫 Connect with me on these platforms.</h3>
 
