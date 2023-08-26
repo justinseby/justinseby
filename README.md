@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Justin Seby,
 
-A polyglot software engineer who is passionate about Machine learning, AI, Big Data and Cognitive Science.
+A polyglot software engineer who is passionate about Machine learning and AI.
 
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
