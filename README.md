@@ -4,27 +4,6 @@
 A computer science professional with a strong background in polyglot software engineering, Machine Learning, AI (NLP) and cybersecurity.
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently working on:
-	- [ ] Machine Learning Professional Certification from Stanford
-	- [ ] Natural Language Processing in TensorFlow Certification from DeepLearning.AI
-
-### My skills include
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="rails" width='40' height='49' style='max-width: 100%;'>
-
-
 
 
 <h3 >📫 Connect with me on these platforms.</h3>
