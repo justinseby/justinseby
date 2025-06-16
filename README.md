@@ -20,7 +20,7 @@ My work bridges computational innovation with clinical application, developing A
 <div align="center">
 
 | 🤖 **AI & ML** | 🧬 **Bioinformatics** |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | Large Language Models | Computational Biology|
 | Machine Learning | Genomics & Proteomics |
 | Deep Learning | Cancer Research |
