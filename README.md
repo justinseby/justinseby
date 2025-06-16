@@ -1,17 +1,3 @@
-# Hi there! 👋 I'm Justin Seby
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=PhD+Student+%40+Karolinska+Institute;AI+in+Cancer+Medicine+Researcher;Machine+Learning+Engineer;Bioinformatics+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-</div>
-
----
-
 ## 🚀 About Me
 
 I'm a **PhD student** at the **Karolinska Institute**, one of the world's leading medical universities, specializing in **AI applications in cancer medicine**. Currently working under the supervision of Prof. Janne Lehtiö at the Lehtiö Lab in the Department of Oncology-Pathology.
@@ -22,7 +8,7 @@ I'm a **PhD student** at the **Karolinska Institute**, one of the world's leadin
 - 🔬 **PhD Student** - Karolinska Institute, Sweden
 - 🎯 **Master's in Computer Science & Engineering (AI)** - University of Oulu, Finland
 - 🏆 **University of Oulu Scholarship** recipient for academic excellence
-- 💼 **Experience across**: Cybersecurity, Physics, and Cancer Medicine
+- 💼 **Experience across**: AI and LLMs in Cybersecurity, Physics, and Cancer Medicine
 
 ### 🔬 **Research Focus**
 My work bridges computational innovation with clinical application, developing AI methods to tackle complex cancer challenges and uncover new insights into cancer mechanisms and treatment strategies.
@@ -33,36 +19,11 @@ My work bridges computational innovation with clinical application, developing A
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((AI in Cancer Medicine))
-    Artificial Intelligence
-      Machine Learning
-      Deep Learning
-      Neural Networks
-    Large Language Models
-      NLP in Medicine
-      Clinical Text Analysis
-      Biomedical Knowledge
-    Bioinformatics
-      Genomics
-      Proteomics
-      Systems Biology
-    Clinical Applications
-      Cancer Diagnosis
-      Prognosis Prediction
-      Treatment Strategies
-```
-
-</div>
-
-<div align="center">
-
-| 🤖 **AI & ML** | 🧬 **Bioinformatics** | 🏥 **Healthcare** |
+| 🤖 **AI & ML** | 🧬 **Bioinformatics** |
 |:---:|:---:|:---:|
-| Large Language Models | Computational Biology | Cancer Research |
-| Machine Learning | Genomics & Proteomics | Clinical Applications |
-| Deep Learning | Systems Biology | Precision Medicine |
+| Large Language Models | Computational Biology|
+| Machine Learning | Genomics & Proteomics |
+| Deep Learning | Cancer Research |
 
 </div>
 
