@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Justin</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=PhD+Student+%7C+AI+Researcher;Prompt+Engineer+%7C+ML+Enthusiast;Exploring+Explainability+in+AI" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧩 About Me
