@@ -11,7 +11,7 @@
 
 ## 🚀 My Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,jupyter,latex,git,github,vscode,linux" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,latex,git,github,vscode,linux" alt="My Skills" />
 </p>
 
 ---
