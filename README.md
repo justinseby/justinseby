@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-I'm a **PhD student** at the **Karolinska Institute**, one of the world's leading medical universities, specializing in **AI applications in cancer medicine**. Currently working under the supervision of Prof. Janne Lehtiö at the Lehtiö Lab in the Department of Oncology-Pathology.
+I'm a **PhD student** at the **Karolinska Institute**, specializing in **AI applications in cancer medicine**. Currently working under the supervision of Prof. Janne Lehtiö at the Lehtiö Lab in the Department of Oncology-Pathology.
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
