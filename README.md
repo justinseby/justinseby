@@ -34,9 +34,8 @@ My work bridges computational innovation with clinical application, developing A
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100">
 
 *If you're interested in AI-driven cancer research or potential collaborations, I'm always open to meaningful discussions!*
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=justinseby.justinseby)  
-![Profile Views](https://komarev.com/ghpvc/?username=justinseby&color=brightgreen)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername.YourGitHubUsername)
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen)
 
 </div>
 
