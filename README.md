@@ -5,9 +5,9 @@ I'm a **PhD student** at the **Karolinska Institute**, specializing in **AI appl
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🎓 **Academic Journey**
-- 🔬 **PhD Student** - Karolinska Institute, Sweden.
-- 🎯 **Master's in Computer Science & Engineering (AI)** - University of Oulu, Finland.
-- 🏆 **University of Oulu Scholarship** recipient for academic excellence.
+- 🔬 **PhD Student** - Karolinska Institute, Sweden, 
+- 🎯 **Master's in Computer Science & Engineering (AI)** - University of Oulu, Finland,
+- 🏆 **University of Oulu Scholarship** recipient for academic excellence,
 - 💼 **Experience across**: AI and LLMs in Cybersecurity, Physics, and Cancer Medicine.
 
 ### 🔬 **Research Focus**
